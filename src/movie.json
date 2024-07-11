@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Stranger Things",
+        "year": 2017,
+        "director": "David Ayer",
+        "duration": "117 min",
+        "genres": ["Action", "Crime", "Fantasy"],
+        "description": "Set in a world where fantasy creatures live side by side with humans. A human cop is forced to work with an Orc to find a weapon everyone is prepared to kill for.",
+        "poster": "https://images6.fanpop.com/image/photos/44400000/Stranger-Things-4-Poster-Eleven-stranger-things-44407784-1080-1350.jpg",
+        "background": "https://phantom-marca.unidadeditorial.es/82b9dd1456788e00ca28244f917d9d5b/resize/1320/f/jpg/assets/multimedia/imagenes/2022/06/21/16558279177949.jpg"
+    },
+    {
+        "title": "Wednesday",
+        "year": 2018,
+        "director": "Roar Uthaug",
+        "duration": "125 min",
+        "genres": ["Action", "Fantasy"],
+        "description": "Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she finds herself on the island where her father disappeared.",
+        "poster": "https://nerdbot.com/wp-content/uploads/2022/09/wednesday-768x960.jpeg",
+        "background": "https://www.stylist.co.uk/images/app/uploads/2022/11/30115107/wednesday-netflix-dance-scene-crop-1669809138-1440x960.jpg?w=1200&h=1&fit=max&auto=format%2Ccompress"
+    },
+    {
+        "title": "Money Heist",
+        "year": 1999,
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "duration": "136 min",
+        "genres": ["Action", "Sci-Fi"],
+        "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+        "poster": "https://cdn-s3.sidereel.com/tv_shows/71563/giant_2x/money_heist.jpg",
+        "background": "https://wp-socialnation-assets.s3.ap-south-1.amazonaws.com/wp-content/uploads/2021/05/25185045/Money-Heist-1152x759.png"
+    },
+    {
+        "title": "The Last of Us",
+        "year": 2010,
+        "director": "Christopher Nolan",
+        "duration": "148 min",
+        "genres": ["Action", "Adventure", "Sci-Fi"],
+        "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+        "poster": "https://tse1.mm.bing.net/th?id=OIP.IfRTg2VMnFaFAjLjWdtOkgHaK-&pid=Api&P=0&h=180",
+        "background": "https://otageek.com.br/wp-content/uploads/2022/11/image003-1-5.jpg"
+    }
+]
